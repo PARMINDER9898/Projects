@@ -1,0 +1,21 @@
+.container{
+    height: 500px;
+    width:100%;
+    /* border:1px solid black; */
+}
+.row{
+    height: auto;
+    width:100%;
+    display: flex;
+}
+.box {
+    height: auto;
+    flex-basis: 500px;
+    /* border:1px solid black; */
+    text-align: center;
+}
+.App-logo {
+    animation: App-logo-spin infinite 20s linear;
+    height: 80px;
+    margin-left: 420px;
+  }
